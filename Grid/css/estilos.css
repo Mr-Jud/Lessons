@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css?family=Great+Vibes|Raleway&display=swap");
+body {
+  background: #0a0b0f;
+  overflow-x: hidden;
+  max-width: 100%; }
+
+body #web_grid {
+  width: 95%;
+  max-width: 2000px;
+  margin: 0 auto;
+  overflow: hidden; }
+
+.head_grid {
+  width: 100%;
+  overflow: hidden;
+  padding: 20px 0; }
+
+.titulo_web {
+  color: #FFF;
+  font: 3.8em 'Great Vibes'; }
+
+.subtitulo_web {
+  color: #CCC;
+  font: 16px 'Raleway';
+  margin-top: 8px; }
+
+.subtitulo_foot {
+  color: #c8c8c8;
+  font: 12px 'Raleway';
+  text-align: right; }
+
+.titulo_web,
+.subtitulo_web {
+  text-align: center; }
+
+.main_grid {
+  margin: 15px 0;
+  width: 100%;
+  column-count: 3; }
+
+.grid_item {
+  width: 100%;
+  margin-bottom: 10px; }
+
+.img_grid img,
+.img_grid video {
+  border-radius: 6px;
+  max-width: 100%;
+  width: 100%;
+  object-fit: cover; }
+
+.pie_grid {
+  width: 100%;
+  overflow: hidden;
+  margin: 15px 0 25px 0; }
+
+/*# sourceMappingURL=estilos.css.map */
